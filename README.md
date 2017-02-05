@@ -1,2 +1,2 @@
 # Alma-OVR
-Unity3d/ Oculus VR Alma
+Unity3d/ Oculus Gear VR Alma
