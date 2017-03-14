@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 1265fbb94b72c544facce29ea18a6753
+timeCreated: 1461948509
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: marcoPuerta01
+    100002: //RootNode
+    100004: room_fear_propuesta:polySurface242
+    100006: room_fear_propuesta:polySurface244
+    100008: room_fear_propuesta:polySurface245
+    100010: room_fear_propuesta:polySurface246
+    100012: room_fear_propuesta:polySurface247
+    100014: room_fear_propuesta:polySurface248
+    100016: room_fear_propuesta:polySurface250
+    100018: room_fear_propuesta:polySurface252
+    100020: room_fear_propuesta:polySurface253
+    100022: room_fear_propuesta:polySurface254
+    100024: room_fear_propuesta:polySurface255
+    100026: room_fear_propuesta:polySurface256
+    400000: marcoPuerta01
+    400002: //RootNode
+    400004: room_fear_propuesta:polySurface242
+    400006: room_fear_propuesta:polySurface244
+    400008: room_fear_propuesta:polySurface245
+    400010: room_fear_propuesta:polySurface246
+    400012: room_fear_propuesta:polySurface247
+    400014: room_fear_propuesta:polySurface248
+    400016: room_fear_propuesta:polySurface250
+    400018: room_fear_propuesta:polySurface252
+    400020: room_fear_propuesta:polySurface253
+    400022: room_fear_propuesta:polySurface254
+    400024: room_fear_propuesta:polySurface255
+    400026: room_fear_propuesta:polySurface256
+    2300000: marcoPuerta01
+    2300002: room_fear_propuesta:polySurface242
+    2300004: room_fear_propuesta:polySurface244
+    2300006: room_fear_propuesta:polySurface245
+    2300008: room_fear_propuesta:polySurface246
+    2300010: room_fear_propuesta:polySurface247
+    2300012: room_fear_propuesta:polySurface248
+    2300014: room_fear_propuesta:polySurface250
+    2300016: room_fear_propuesta:polySurface252
+    2300018: room_fear_propuesta:polySurface253
+    2300020: room_fear_propuesta:polySurface254
+    2300022: room_fear_propuesta:polySurface255
+    2300024: room_fear_propuesta:polySurface256
+    3300000: marcoPuerta01
+    3300002: room_fear_propuesta:polySurface242
+    3300004: room_fear_propuesta:polySurface244
+    3300006: room_fear_propuesta:polySurface245
+    3300008: room_fear_propuesta:polySurface246
+    3300010: room_fear_propuesta:polySurface247
+    3300012: room_fear_propuesta:polySurface248
+    3300014: room_fear_propuesta:polySurface250
+    3300016: room_fear_propuesta:polySurface252
+    3300018: room_fear_propuesta:polySurface253
+    3300020: room_fear_propuesta:polySurface254
+    3300022: room_fear_propuesta:polySurface255
+    3300024: room_fear_propuesta:polySurface256
+    4300000: marcoPuerta01
+    4300002: room_fear_propuesta:polySurface242
+    4300004: room_fear_propuesta:polySurface244
+    4300006: room_fear_propuesta:polySurface245
+    4300008: room_fear_propuesta:polySurface246
+    4300010: room_fear_propuesta:polySurface247
+    4300012: room_fear_propuesta:polySurface248
+    4300014: room_fear_propuesta:polySurface250
+    4300016: room_fear_propuesta:polySurface252
+    4300018: room_fear_propuesta:polySurface253
+    4300020: room_fear_propuesta:polySurface254
+    4300022: room_fear_propuesta:polySurface255
+    4300024: room_fear_propuesta:polySurface256
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
